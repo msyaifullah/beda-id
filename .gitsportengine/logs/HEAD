@@ -1,0 +1,60 @@
+0000000000000000000000000000000000000000 1115502c3522d4571764a0b9ea16e7d372cb65ae Masykuri Syaifullah <msyaifullah@gmail.com> 1730424935 +0700	commit (initial): initial project
+1115502c3522d4571764a0b9ea16e7d372cb65ae 90c23badabf49c4436df0c424c7dfeb8eb2d197d Masykuri Syaifullah <msyaifullah@gmail.com> 1730429364 +0700	commit: remove unused code
+90c23badabf49c4436df0c424c7dfeb8eb2d197d 90c23badabf49c4436df0c424c7dfeb8eb2d197d Masykuri Syaifullah <msyaifullah@gmail.com> 1730464538 +0700	reset: moving to HEAD
+90c23badabf49c4436df0c424c7dfeb8eb2d197d 2f1278ed6fae7594d9dec4e3171aa2b74c558507 Masykuri Syaifullah <msyaifullah@gmail.com> 1730513782 +0700	commit: change the products
+2f1278ed6fae7594d9dec4e3171aa2b74c558507 fa03ec5498e0e19580f713420e92dfaa552886de Masykuri Syaifullah <msyaifullah@gmail.com> 1730697408 +0700	commit: remove unused code
+fa03ec5498e0e19580f713420e92dfaa552886de acd841cf6bf93e7cb02ba5bb33873a9ea3da52d9 Masykuri Syaifullah <msyaifullah@gmail.com> 1730697960 +0700	commit: amama
+acd841cf6bf93e7cb02ba5bb33873a9ea3da52d9 629e3f6cda30f4141385ad91eec6d3cc323e7f10 Masykuri Syaifullah <msyaifullah@gmail.com> 1730999497 +0700	commit: add tree js
+629e3f6cda30f4141385ad91eec6d3cc323e7f10 7d1fc6bab5b120856823fb6684d54183b05ea0e3 Masykuri Syaifullah <msyaifullah@gmail.com> 1730999813 +0700	commit: add box
+7d1fc6bab5b120856823fb6684d54183b05ea0e3 cfab7f48893925f1bf46d9bdd523fe2db2efc250 Masykuri Syaifullah <msyaifullah@gmail.com> 1731303393 +0700	commit: add another update box
+cfab7f48893925f1bf46d9bdd523fe2db2efc250 3f4ce0774e2738e3648eea49797512e92907d2e7 Masykuri Syaifullah <msyaifullah@gmail.com> 1731344892 +0700	commit: added three js sample
+3f4ce0774e2738e3648eea49797512e92907d2e7 3f4ce0774e2738e3648eea49797512e92907d2e7 Masykuri Syaifullah <msyaifullah@gmail.com> 1734283693 +0700	checkout: moving from main to add-lineup-component
+3f4ce0774e2738e3648eea49797512e92907d2e7 ecc05d62b9fbd65aa810ffd126378a45d3ebecc9 Masykuri Syaifullah <msyaifullah@gmail.com> 1734283708 +0700	commit: add lineup
+ecc05d62b9fbd65aa810ffd126378a45d3ebecc9 b3b9b3d4e4c81daa320b60207a6fda7795e02475 Masykuri Syaifullah <msyaifullah@gmail.com> 1734285517 +0700	commit: add param
+b3b9b3d4e4c81daa320b60207a6fda7795e02475 8cd0e3f6225af466f3625a4e6777097f7f97f645 Masykuri Syaifullah <msyaifullah@gmail.com> 1734338487 +0700	commit: linting
+8cd0e3f6225af466f3625a4e6777097f7f97f645 d4c88957207d4c6197abe52d9e6e2eea3ca77d43 Masykuri Syaifullah <msyaifullah@gmail.com> 1734347374 +0700	commit: add something interesting
+d4c88957207d4c6197abe52d9e6e2eea3ca77d43 b2c3f603a0590a1aa7fae1e0aa61151d996f665c Masykuri Syaifullah <msyaifullah@gmail.com> 1734714908 +0700	commit: add football field
+b2c3f603a0590a1aa7fae1e0aa61151d996f665c b2c3f603a0590a1aa7fae1e0aa61151d996f665c Masykuri Syaifullah <msyaifullah@gmail.com> 1734715505 +0700	reset: moving to HEAD
+b2c3f603a0590a1aa7fae1e0aa61151d996f665c 5293a7411e95fbf01d11b3e4d1ffcd29c3ab7900 Masykuri Syaifullah <msyaifullah@gmail.com> 1734717932 +0700	commit: add field line
+5293a7411e95fbf01d11b3e4d1ffcd29c3ab7900 43b5b6eb9f15d1a9df864f603b7f1139ce1d03c4 Masykuri Syaifullah <msyaifullah@gmail.com> 1734718734 +0700	commit: add field change height
+43b5b6eb9f15d1a9df864f603b7f1139ce1d03c4 f7a602681c1dfd11a94bb747d61dd55aed0dcc99 Masykuri Syaifullah <msyaifullah@gmail.com> 1734723422 +0700	commit: fixing download image
+f7a602681c1dfd11a94bb747d61dd55aed0dcc99 88ec2a4fda1ed5e8b8b6ea7f4fd5855d93774c36 Masykuri Syaifullah <msyaifullah@gmail.com> 1734745699 +0700	commit: fixing the ui
+88ec2a4fda1ed5e8b8b6ea7f4fd5855d93774c36 ff1b4b1d88c856719a78d2ea15195e2a2fa8f64a Masykuri Syaifullah <msyaifullah@gmail.com> 1734746421 +0700	commit: move ui to root"
+ff1b4b1d88c856719a78d2ea15195e2a2fa8f64a ff1b4b1d88c856719a78d2ea15195e2a2fa8f64a Masykuri Syaifullah <msyaifullah@gmail.com> 1734759627 +0700	reset: moving to HEAD
+ff1b4b1d88c856719a78d2ea15195e2a2fa8f64a 790b9c234489a039ad8f28fd05389a73a9b2ac73 Masykuri Syaifullah <msyaifullah@gmail.com> 1734761667 +0700	commit: fixing layer
+790b9c234489a039ad8f28fd05389a73a9b2ac73 27dcd371a7743206956bf54a887e104ac1ad9f9b Masykuri Syaifullah <msyaifullah@gmail.com> 1734762529 +0700	commit: fix alignment
+27dcd371a7743206956bf54a887e104ac1ad9f9b 80e58a60dc808e225f0176041cafddb1e6e92e8b Masykuri Syaifullah <msyaifullah@gmail.com> 1734763734 +0700	commit: fixing the alignment
+80e58a60dc808e225f0176041cafddb1e6e92e8b 1d0a2e4e51b31c908bddbe2ea3a2c29f86cbf2cf Masykuri Syaifullah <msyaifullah@gmail.com> 1734765225 +0700	commit: fixing download
+1d0a2e4e51b31c908bddbe2ea3a2c29f86cbf2cf f929d9bfef99b7e4c126f501b60a0e7133d0059e Masykuri Syaifullah <msyaifullah@gmail.com> 1734770704 +0700	commit: add lineup athlete
+f929d9bfef99b7e4c126f501b60a0e7133d0059e f929d9bfef99b7e4c126f501b60a0e7133d0059e Masykuri Syaifullah <msyaifullah@gmail.com> 1734771452 +0700	reset: moving to HEAD
+f929d9bfef99b7e4c126f501b60a0e7133d0059e 3f4ce0774e2738e3648eea49797512e92907d2e7 Masykuri Syaifullah <msyaifullah@gmail.com> 1734774139 +0700	checkout: moving from add-lineup-component to main
+3f4ce0774e2738e3648eea49797512e92907d2e7 0000000000000000000000000000000000000000 Masykuri Syaifullah <msyaifullah@gmail.com> 1734774142 +0700	Branch: renamed refs/heads/main to refs/heads/main
+3f4ce0774e2738e3648eea49797512e92907d2e7 3f4ce0774e2738e3648eea49797512e92907d2e7 Masykuri Syaifullah <msyaifullah@gmail.com> 1734774142 +0700	Branch: renamed refs/heads/main to refs/heads/main
+3f4ce0774e2738e3648eea49797512e92907d2e7 f929d9bfef99b7e4c126f501b60a0e7133d0059e Masykuri Syaifullah <msyaifullah@gmail.com> 1734774174 +0700	checkout: moving from main to add-lineup-component
+f929d9bfef99b7e4c126f501b60a0e7133d0059e 3f4ce0774e2738e3648eea49797512e92907d2e7 Masykuri Syaifullah <msyaifullah@gmail.com> 1734775002 +0700	checkout: moving from add-lineup-component to main
+3f4ce0774e2738e3648eea49797512e92907d2e7 f3aab8189579497614e78bff2dc8dcfe2303a372 Masykuri Syaifullah <msyaifullah@gmail.com> 1734776441 +0700	commit: fixing dependency error
+f3aab8189579497614e78bff2dc8dcfe2303a372 f929d9bfef99b7e4c126f501b60a0e7133d0059e Masykuri Syaifullah <msyaifullah@gmail.com> 1734776631 +0700	checkout: moving from main to add-lineup-component
+f929d9bfef99b7e4c126f501b60a0e7133d0059e 66c275563c5d7cecc31c00a6a231950021425ed9 Masykuri Syaifullah <msyaifullah@gmail.com> 1734776722 +0700	commit (merge): Merge branch 'main' into add-lineup-component
+66c275563c5d7cecc31c00a6a231950021425ed9 f3aab8189579497614e78bff2dc8dcfe2303a372 Masykuri Syaifullah <msyaifullah@gmail.com> 1734776836 +0700	checkout: moving from add-lineup-component to main
+f3aab8189579497614e78bff2dc8dcfe2303a372 d5f143deb1503f36557891d768b2824ca7d547ad Masykuri Syaifullah <msyaifullah@gmail.com> 1734776844 +0700	pull: Fast-forward
+d5f143deb1503f36557891d768b2824ca7d547ad 4b1ca2c7bf7bb91a37a254f903938468b2d5ce0f Masykuri Syaifullah <msyaifullah@gmail.com> 1734781487 +0700	commit: fix merge
+4b1ca2c7bf7bb91a37a254f903938468b2d5ce0f 4b1ca2c7bf7bb91a37a254f903938468b2d5ce0f Masykuri Syaifullah <msyaifullah@gmail.com> 1734893828 +0700	checkout: moving from main to fixing-position
+4b1ca2c7bf7bb91a37a254f903938468b2d5ce0f 2d48d1faa7fcd05c6046abd6d17ba11965132195 Masykuri Syaifullah <msyaifullah@gmail.com> 1734893835 +0700	commit: add data
+2d48d1faa7fcd05c6046abd6d17ba11965132195 2d48d1faa7fcd05c6046abd6d17ba11965132195 Masykuri Syaifullah <msyaifullah@gmail.com> 1734894666 +0700	reset: moving to HEAD
+2d48d1faa7fcd05c6046abd6d17ba11965132195 568f1e3e20ffe86f2f5d98400441777f5aeb1599 Masykuri Syaifullah <msyaifullah@gmail.com> 1735320535 +0700	commit: add nft
+568f1e3e20ffe86f2f5d98400441777f5aeb1599 cf22789de9fdc854a6ba9f8dfa1619ba51715afc Masykuri Syaifullah <msyaifullah@gmail.com> 1735322833 +0700	commit: testing burn
+cf22789de9fdc854a6ba9f8dfa1619ba51715afc 74b45c93d6feeb2de8b0e2d1675d24d3ebe4c274 Masykuri Syaifullah <msyaifullah@gmail.com> 1735323354 +0700	commit: cleaning test
+74b45c93d6feeb2de8b0e2d1675d24d3ebe4c274 4c44f041a80cd814452411625312a0338ff84685 Masykuri Syaifullah <msyaifullah@gmail.com> 1735399286 +0700	commit: add tournament bracket sample
+4c44f041a80cd814452411625312a0338ff84685 f0d7f358da72a7b296cb6983df9c6dbc30c19ab2 Masykuri Syaifullah <msyaifullah@gmail.com> 1735401213 +0700	commit: change bit
+f0d7f358da72a7b296cb6983df9c6dbc30c19ab2 7d033ba94386f159e35c86ea67ac84fdc09398b0 Masykuri Syaifullah <msyaifullah@gmail.com> 1735405531 +0700	commit: fixing code
+7d033ba94386f159e35c86ea67ac84fdc09398b0 4ce1cf87861d35c96fb51eef3919c1558ef44b7d Masykuri Syaifullah <msyaifullah@gmail.com> 1735406286 +0700	commit: add bracket
+4ce1cf87861d35c96fb51eef3919c1558ef44b7d 58b4a04a784dce81a4b6d8811b64cf732f3f43f8 Masykuri Syaifullah <msyaifullah@gmail.com> 1735408065 +0700	commit: fixing code
+58b4a04a784dce81a4b6d8811b64cf732f3f43f8 12f1b4871f6ad66ae0f0e7e06605a9b621644f04 Masykuri Syaifullah <msyaifullah@gmail.com> 1735408454 +0700	commit: fixing code
+12f1b4871f6ad66ae0f0e7e06605a9b621644f04 4b1ca2c7bf7bb91a37a254f903938468b2d5ce0f Masykuri Syaifullah <msyaifullah@gmail.com> 1735408608 +0700	checkout: moving from fixing-position to main
+4b1ca2c7bf7bb91a37a254f903938468b2d5ce0f 12f1b4871f6ad66ae0f0e7e06605a9b621644f04 Masykuri Syaifullah <msyaifullah@gmail.com> 1735408623 +0700	merge fixing-position: Fast-forward
+12f1b4871f6ad66ae0f0e7e06605a9b621644f04 e0bab9a4503368139c18e016b91676feb5c7235d Masykuri Syaifullah <msyaifullah@gmail.com> 1735491353 +0700	commit: add nft page
+e0bab9a4503368139c18e016b91676feb5c7235d 9fbcc7738d37c6e5aa19b32c970dc2f953c43444 Masykuri Syaifullah <msyaifullah@gmail.com> 1735493213 +0700	commit: fixing lint
+9fbcc7738d37c6e5aa19b32c970dc2f953c43444 d1524319432960a3ec2e3ec5e7ae5c006ee64549 Masykuri Syaifullah <msyaifullah@gmail.com> 1735585533 +0700	commit: add stake
+d1524319432960a3ec2e3ec5e7ae5c006ee64549 cd497ad7ffd559c31fa86e794568973affe7d060 Masykuri Syaifullah <msyaifullah@gmail.com> 1735654329 +0700	commit: move directory
+cd497ad7ffd559c31fa86e794568973affe7d060 71f3603b339100c3f25436373ba04a1b20000b93 Masykuri Syaifullah <msyaifullah@gmail.com> 1735709833 +0700	commit: expose nft reward contract
+71f3603b339100c3f25436373ba04a1b20000b93 59aa114e38ed70a7ab33fc8f40b4206861d40cdb Masykuri Syaifullah <msyaifullah@gmail.com> 1736663647 +0700	commit: add contract

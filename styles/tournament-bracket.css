@@ -1,0 +1,68 @@
+/*
+  Outgoing connector
+ */
+
+.with-connector:after {
+  content: " ";
+  position: absolute;
+  left: calc(100% + 0.5rem); /* participant size (includes margin) */
+  width: 7.75rem; /* round margin-right */
+  border: 2px solid #e2e8f0;
+  border-left: none;
+}
+
+.with-connector:nth-child(odd):after {
+  top: 50%;
+  border-bottom: none;
+}
+
+.with-connector:nth-child(even):after {
+  bottom: 50%;
+  border-top: none;
+}
+
+.round:nth-child(1) .with-connector:after {
+  height: 80px;
+}
+
+.round:nth-child(2) .with-connector:after {
+  height: 160px;
+}
+
+.round:nth-child(3) .with-connector:after {
+  height: 310px;
+}
+
+.round:nth-child(4) .with-connector:after {
+  height: 650px;
+}
+
+.round.round-winner .with-connector:after {
+  width: 0;
+}
+
+.round + .round .with-connector:before {
+  content: " ";
+  position: absolute;
+  left: -6rem; /* competitor margin + current width */
+  top: 50%;
+  width: 6rem; /* round margin-left */
+  border-top: 2px solid #e2e8f0;
+}
+
+/* 
+    Byes
+  */
+
+.with-connector.with-bye {
+  margin-top: 85px;
+  margin-bottom: 85px;
+}
+
+.round .with-connector.with-bye:after {
+  height: 0;
+}
+
+.with-connector.with-bye + .with-connector {
+  display: none;
+}

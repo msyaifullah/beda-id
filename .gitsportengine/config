@@ -1,0 +1,20 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/msyaifullah/sportengine.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "main"]
+	remote = origin
+	merge = refs/heads/main
+[branch "add-lineup-component"]
+	vscode-merge-base = origin/main
+	remote = origin
+	merge = refs/heads/add-lineup-component
+[branch "fixing-position"]
+	github-pr-base-branch = "msyaifullah#sportengine#main"
+	vscode-merge-base = origin/main
