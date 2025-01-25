@@ -2,6 +2,7 @@ import { Inter as FontSans } from "next/font/google"
 import localFont from "next/font/local"
 
 import "@/styles/globals.css"
+import "@/styles/additonal.css"
 
 import { Metadata, Viewport } from "next"
 

@@ -19,7 +19,7 @@ const testimonials: TestimonialProps[] = [
     image: "https://github.com/shadcn.png",
     name: "John Doe React",
     userName: "@john_Doe",
-    comment: "This landing page is awesome!",
+    comment: "Lorem ipsum dolor sit amet,exercitation. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.!",
   },
   {
     image: "https://github.com/shadcn.png",
@@ -101,7 +101,7 @@ export const Testimonials = () => {
                 </div>
               </CardHeader>
 
-              <CardContent>{comment}</CardContent>
+              <CardContent className="text-left">{comment}</CardContent>
             </Card>
           )
         )}
