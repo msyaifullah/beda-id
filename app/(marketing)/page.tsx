@@ -1,3 +1,11 @@
+import { About } from "@/components/custom/about"
+import { Features } from "@/components/custom/features"
+import { Hero } from "@/components/custom/hero"
+import { Services } from "@/components/custom/services"
+import { Sponsors } from "@/components/custom/sponsor"
+import { Team } from "@/components/custom/team"
+import { Testimonials } from "@/components/custom/testimonies"
+
 async function getGitHubStars(): Promise<string | null> {
   try {
     const response = await fetch("https://api.github.com/repos/msyaifullah/sportengine", {
@@ -26,7 +34,7 @@ export default async function IndexPage() {
   const stars = await getGitHubStars()
 
   return (
-    <div className="flex">
+    <div className="flex flex-col">
       <section className="z-20 w-dvw space-y-6 pb-8 pt-6 md:pb-12 md:pt-10 lg:py-32">
         <div className="container flex max-w-5xl flex-col items-center gap-4 text-center">
           <h1 className="font-heading text-3xl sm:text-5xl md:text-6xl lg:text-7xl">
@@ -36,6 +44,17 @@ export default async function IndexPage() {
           <p className="max-w-2xl leading-normal text-muted-foreground sm:text-xl sm:leading-8">Building Immersive Digital Experiences, Pixel Pushing, Paradigm Shifting.</p>
         </div>
       </section>
+      <section className="z-20 w-dvw space-y-6 pb-8 pt-6 md:pb-12 md:pt-10 lg:py-32">
+        <div className="container flex flex-col items-center gap-4 text-center">
+          <About/>
+          <Hero/>
+          <Sponsors/>
+          <Features/>
+          <Services/>
+          <Team/>
+          <Testimonials/>
+          </div>
+          </section>
     </div>
   )
 }
