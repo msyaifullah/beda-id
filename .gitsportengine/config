@@ -6,7 +6,7 @@
 	ignorecase = true
 	precomposeunicode = true
 [remote "origin"]
-	url = https://github.com/msyaifullah/sportengine.git
+	url = https://github.com/msyaifullah/beda.git
 	fetch = +refs/heads/*:refs/remotes/origin/*
 [branch "main"]
 	remote = origin
@@ -16,5 +16,5 @@
 	remote = origin
 	merge = refs/heads/add-lineup-component
 [branch "fixing-position"]
-	github-pr-base-branch = "msyaifullah#sportengine#main"
+	github-pr-base-branch = "msyaifullah#beda#main"
 	vscode-merge-base = origin/main

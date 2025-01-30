@@ -1,62 +1,51 @@
-import { Card, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import { MagnifierIcon, WalletIcon, ChartIcon } from "./icons";
+import { Card, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
+
+import { ChartIcon, MagnifierIcon, WalletIcon } from "./icons"
 
 interface ServiceProps {
-  title: string;
-  description: string;
-  icon: JSX.Element;
+  title: string
+  description: string
+  icon: JSX.Element
 }
 
 const serviceList: ServiceProps[] = [
   {
     title: "Code Collaboration",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
+    description: "Foster innovation and efficiency with our collaborative coding environment. By bringing together diverse expertise and cutting-edge tools, we ensure seamless teamwork, faster development cycles, and high-quality software solutions.",
     icon: <ChartIcon />,
   },
   {
     title: "Project Management",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
+    description: "Our project management approach ensures seamless delivery of software solutions, on time and within budget. By combining agile methodologies, clear communication, and a focus on your goals, we turn complex challenges into successful outcomes.",
     icon: <WalletIcon />,
   },
   {
     title: "Task Automation",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt est nostrum omnis ab sapiente.",
+    description: "Harness the power of automation to eliminate repetitive tasks, reduce errors, and boost productivity. Our tailored automation solutions empower your team to focus on what matters most—innovation and strategic growth.",
     icon: <MagnifierIcon />,
   },
-];
+]
 
 export const Services = () => {
   return (
     <section className="container py-24 sm:py-32">
-      <div className="grid lg:grid-cols-[1fr,1fr] gap-8 place-items-center">
+      <div className="grid place-items-center gap-8 lg:grid-cols-[1fr,1fr]">
         <div>
-          <h2 className="text-3xl md:text-4xl font-bold">
-            <span className="bg-gradient-to-b from-primary/60 to-primary text-transparent bg-clip-text">
-              Client-Centric{" "}
-            </span>
+          <h2 className="text-3xl font-bold md:text-4xl">
+            <span className="bg-gradient-to-b from-primary/60 to-primary bg-clip-text text-transparent">Client-Centric </span>
             Services
           </h2>
 
-          <p className="text-muted-foreground text-xl mt-4 mb-8 ">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veritatis
-            dolor.
-          </p>
+          <p className="mb-8 mt-4 text-xl text-muted-foreground ">Driving Digital Transformation with Cutting-Edge Software Solutions.</p>
 
           <div className="flex flex-col gap-8">
             {serviceList.map(({ icon, title, description }: ServiceProps) => (
               <Card key={title}>
-                <CardHeader className="space-y-1 flex md:flex-row justify-start items-start gap-4">
-                  <div className="mt-1 bg-primary/20 p-1 rounded-2xl">
-                    {icon}
-                  </div>
+                <CardHeader className="flex items-start justify-start gap-4 space-y-1 md:flex-row">
+                  <div className="mt-1 rounded-2xl bg-primary/20 p-1">{icon}</div>
                   <div>
                     <CardTitle>{title}</CardTitle>
-                    <CardDescription className="text-md mt-2">
-                      {description}
-                    </CardDescription>
+                    <CardDescription className="text-md mt-2 text-left">{description}</CardDescription>
                   </div>
                 </CardHeader>
               </Card>
@@ -64,12 +53,8 @@ export const Services = () => {
           </div>
         </div>
 
-        <img
-          src={'/duckduck.jpeg'}
-          className="w-[300px] md:w-[500px] lg:w-[600px] object-contain"
-          alt="About services"
-        />
+        <img src={"/images/features/client-centris.png"} className="w-[300px] object-contain md:w-[500px] lg:w-[600px]" alt="About services" />
       </div>
     </section>
-  );
-};
+  )
+}

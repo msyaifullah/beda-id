@@ -139,7 +139,7 @@ export function SiteFooter({ className }: React.HTMLAttributes<HTMLElement>) {
 
       <section className="container pb-14 text-center">
         <div className="mt-8 py-8  text-center text-muted-foreground">
-          <p>&copy; 2025 {siteConfig.name}. All rights reserved.</p>
+          <p>&copy; 2025 {siteConfig.name}. By {siteConfig.company}.</p>
         </div>
       </section>
     </footer>

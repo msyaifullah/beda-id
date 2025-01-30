@@ -10,29 +10,21 @@ interface MarketingLayoutProps {
   children: React.ReactNode
 }
 
-export default async function MarketingLayout({
-  children,
-}: MarketingLayoutProps) {
+export default async function MarketingLayout({ children }: MarketingLayoutProps) {
   return (
     <div className="flex min-h-screen flex-col">
-      <header className="container z-40 bg-background">
+      <header className="container z-40">
         <div className="flex h-20 items-center justify-between py-6">
           <MainNav items={marketingConfig.mainNav} />
-          <nav>
-            <Link
-              href="#"
-              className={cn(
-                buttonVariants({ variant: "secondary", size: "sm" }),
-                "px-4"
-              )}
-            >
+          {/* <nav>
+            <Link href="#" className={cn(buttonVariants({ variant: "secondary", size: "sm" }), "px-4")}>
               Author
             </Link>
-          </nav>
+          </nav> */}
         </div>
       </header>
       <main className="flex-1">{children}</main>
-      <SiteFooter className="z-40"/>
+      <SiteFooter className="z-40" />
     </div>
   )
 }

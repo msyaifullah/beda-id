@@ -10,7 +10,7 @@ import { Testimonials } from "@/components/custom/testimonies"
 
 async function getGitHubStars(): Promise<string | null> {
   try {
-    const response = await fetch("https://api.github.com/repos/msyaifullah/sportengine", {
+    const response = await fetch("https://api.github.com/repos/msyaifullah/beda", {
       headers: {
         Accept: "application/vnd.github+json",
         Authorization: `Bearer mma`,
@@ -40,13 +40,13 @@ export default async function IndexPage() {
       <section className="z-20 w-dvw space-y-6 pb-8 pt-6 md:pb-12 md:pt-10 lg:py-10">
         <div className="container flex flex-col items-center gap-4 text-center">
           <Hero />
-          <Sponsors />
+          {/* <Sponsors /> */}
           <About />
           <Services />
           <Features />
-          <HowItWorks/>
+          {/* <HowItWorks/> */}
           <Team />
-          <Testimonials />
+          {/* <Testimonials /> */}
           <ScrollToTop/>
         </div>
       </section>
